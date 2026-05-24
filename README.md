@@ -32,11 +32,8 @@ Ao iniciar, o simulador pergunta dois valores:
 
 No menu, as teclas permitem: **A** — nova árvore · **T** — calcular um termo (uₙ) · **S** — sair.
 
-> **Atividade para o Clube de Matemática:** experimentar a base 3 e a base 4, prever o número de ramos de cada nível antes de simular, e comparar os três termos gerais.
-
 ## Licença e créditos
 
 - **Código:** licença **MIT** (ver ficheiro `LICENSE`) — pode ser usado, modificado e partilhado **desde que se mantenha a atribuição à autora**.
-- **Materiais pedagógicos** associados (planificação e apresentações): **CC BY 4.0**.
 
 © 2026 Celeste Silva. Inspirado em *Drawing a Tree*, de Bruno Munari.
